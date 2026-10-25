@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+backend/uploads/
+frontend/trustvault-ui/node_modules/
+frontend/trustvault-ui/dist/
